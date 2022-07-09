@@ -1,0 +1,29 @@
+body{
+    background:lightgray;
+}
+h1{
+    font-size:60px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bolder;
+}
+h4{
+    font-family:cursive;
+}
+#camera{
+    height:400px;
+    width:500px;
+    border:1px solid black;
+}
+img{
+    width:37%;
+    border-radius:4px;
+    padding:10px;
+    box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
+}
+img:hover{
+    border-radius:140px;
+}
+.column{
+    display:inline;
+    padding:10px;
+}
